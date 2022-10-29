@@ -17,6 +17,12 @@
     "lint:fix": "yarn lint --fix",
     "format": "prettier ./src --write"
   },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0",
+    "morgan": "^1.10.0"
+  },
   "devDependencies": {
     "@swc/cli": "^0.1.57",
     "@swc/core": "^1.3.11",
@@ -49,10 +55,5 @@
       "yarn test --silent --passWithNoTests --findRelatedTests",
       "git add -A ."
     ]
-  },
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "morgan": "^1.10.0"
   }
 }
