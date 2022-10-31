@@ -1,6 +1,6 @@
 import { NextFunction, Request, Response } from 'express';
 
-import { Contact } from '../entities/Contact';
+import { Contact } from '../database/entities/Contact';
 import { ContactModel } from '../models/ContactModel';
 
 export class ContactController {

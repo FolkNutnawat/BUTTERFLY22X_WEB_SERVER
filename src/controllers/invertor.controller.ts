@@ -1,6 +1,6 @@
 import { NextFunction, Request, Response } from 'express';
 
-import { Investor } from '../entities/Investor';
+import { Investor } from '../database/entities/Investor';
 import { InvestorModel } from '../models/InvestorModel';
 
 export class InvestorController {

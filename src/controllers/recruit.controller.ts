@@ -1,5 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
-import { Recruit } from '../entities/Recruit';
+import { Recruit } from '../database/entities/Recruit';
 import { RecruitModel } from '../models/RecruitModel';
 
 export class RecruitController {
