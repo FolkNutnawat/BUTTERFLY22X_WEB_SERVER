@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "butterfly22x-web-server",
+  "private_key_id": "c6808a9ad253aa62c9345fed12458cd78aa4264d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgvepvTZ40pChj\nKaCSNyBuhGzo0z8bRBpICmJQWPXWGF6ZgX3L3KJfvuxgo0zQm83VR7wG0WUvEkIm\n7ZZfDgX+FGNr6yfLRGgnUN3XUst4h+2UXT1AHwfPt5ijSxs4uVx6NhKNbM+V48Sr\nWooaJxygL4KJwPQMIOYcvBuUU1/pR/kG9/jp8UfZEHfeA1YPsL8BsXLfe7WodwjT\ngEUMDf1eZFHjXbF2X6c7ZupbzHeCk3WLa0DzsQ26VBt5MOKsSmW5hU8gCsr7PIeG\nAdcGFrsesrGjpowzsslRAW0ngAjDeBcxTRyFGLYYI6bAra8BPHUwzpzITVQkthi8\nHJ3WRFjzAgMBAAECggEADeWKArCvLalQ55poivuZp8iZRQEUj+BAKvnPzN2s8qLp\nhpIGCbFuen+MKKJjjfd0XNHL6jTPp7KrU7J+CXBAJc8Nu478FCRgt4pw86JZyCD8\nXp/KH8lLasHhg4delL1X3vHlAWKCQeemZSoUcm8ksZfLRi7sm3gu6NJadwUVkykT\npAotKGSnFpIxZBqu8DOnYPNBKpiZ0HJ7iqaUTCQCziUmUBQ/o5NdB0KWGyEt7jCA\ntwrx0sfIaZg/YVKBVS7TIavsIMt0eEEJSP8DfsDLhtVcTOiNMLu4fNhqzgboh3Rk\nJ7Uu0nM22RhCYBoVuCzHEDYlPyupsiVwKLzzaivPcQKBgQD84rBPsSJLZ997T6Dn\nQZBj2evE4QVxCF7tCD24mfgJg8bl+xJo2RFswG2FihW8L25w7T6rW1SLVZKbcJ+k\nYU9TgoWBnUIW51Jh1nZOyaDR9WXG9tKGkROIFhbMtHP83plZVjDI6xngPSVXOM9h\nSWbtHAHZtXTH4GZ4AAigGj8d3QKBgQDjgn6FJwGBm7BLRopERalqjnnQmL5pDC0V\nII91QPf5bbVfcq6bySjkrZZHRb5Ytu4AOXk4knkqMZHbaHHxuOqGfyBJO6ckZDmy\nok98wOb4xpgliOrvSse1iGJy9mNXRhJ960yh9WQbc7MeTyk2TXiKEMgSKH6WDtiX\neaBZxNztDwKBgAdK+k6yCw0lp7pEp51DtMhMZpI88w05cpNfY3hJaG/NzxSe0v8X\nE3uRaRcqzkmpDIRRMzd54MxL4Xh+HPx+me0MnJEKWfeTIDsWFj9bbTng29iLEbMz\nx95q1Kl+osGuIboD1FBXB14CJWuIheKGXWOFJUCEDSQegpX/WkBTwXI5AoGAPM5n\n2lauhGGEINpdohmsShqCXEo2ugTTF854CTKwFC5KR5RzLpf5IgVzIOF3Gmbp/Y1e\n5MvhLnHJNgcYTS7LH99iVbBn38YZ1bCj5gf4s40ApSePAx3NeqtVBLztmCnWT2lQ\nNglMFDo8KWGm9iiGiwApORExpBGbugB75wJCuekCgYB6mU+O2r+/aAT4PqEycaK8\nVnFhfkAge2A6YSwdVzUj2M/wZwSBwjFiZ+u4QCVd67AZNXo/ar4Q2oJzoGkErFaw\nb400I/qRhbQVjauavIbx+ZdR2czGm0bOQxHa2qZeJHI9y1ERKR8mAq0ItvLnAzeF\nErYfNWmMSWvFonVkwhfuZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "node-upload-file@butterfly22x-web-server.iam.gserviceaccount.com",
+  "client_id": "111174646134378703260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/node-upload-file%40butterfly22x-web-server.iam.gserviceaccount.com"
+}

@@ -12,7 +12,7 @@ const contactSchema = new mongoose.Schema<ContactDocument>(
   { timestamps: true }
 );
 
-export const Contact = mongoose.model<ContactDocument, Model<ContactDocument>>(
+export const ContactModel = mongoose.model<ContactDocument, Model<ContactDocument>>(
   'ContractModel',
   contactSchema,
   'contracts'

@@ -3,7 +3,7 @@ export class Investor {
   surname!: string;
   interest!: string;
   email!: string;
-  area_of_interest!: string[];
+  area_of_interests!: string[];
   constructor(props?: Investor) {
     Object.assign(this, props);
   }

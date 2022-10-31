@@ -8,11 +8,11 @@ const investorSchema = new mongoose.Schema<InvestorDocument>({
   surname: { type: String, required: true },
   interest: { type: String, required: true },
   email: { type: String, required: true },
-  area_of_interest: [{ type: String }],
+  area_of_interests: [{ type: String }],
 });
 
 export const InvestorModel = mongoose.model<InvestorDocument, Model<InvestorDocument>>(
   'InvestorModel',
   investorSchema,
-  'invertors'
+  'investors'
 );
